@@ -1,6 +1,6 @@
 # Shasky Ya
 
-Aplicacion web para conectar clientes con maestros y servicios del hogar cercanos.
+Aplicacion desarrollada para facilitar la busqueda de maestros y servicios del hogar cercanos.
 
 ## Enfoque
 
